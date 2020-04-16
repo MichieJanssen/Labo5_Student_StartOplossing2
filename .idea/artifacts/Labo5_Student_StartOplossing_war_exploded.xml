@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Labo5_Student_StartOplossing:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Labo5_Student_StartOplossing_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Labo5_Student_StartOplossing" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Labo5_Student_StartOplossing/web/Web" />
+    </root>
+  </artifact>
+</component>
